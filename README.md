@@ -27,33 +27,9 @@ High-capacity **Principal Purple Team Engineer and Adversarial Risk Specialist**
 
 I have compiled an exhaustive database of **53 completed, distinct case studies** detailing black-box logic exploits, multi-agent cascades, and validation-layer overrides executed across frontier platforms. My absolute highest-impact findings are hosted within my dedicated repositories:
 
-### 🥇 [Case Study #1: Multi-Agent Cascade Loop (Case #029)](https://github.com)
-*   **Vulnerability Type:** Closed-Loop Multi-Agent Adversarial Fuzzing / Predictive Drift Saturation
-*   **The Exploit:** Pitted a highly subjective companion fine-tune model directly against a hyper-logical foundational intelligence in a closed feedback loop via manual message routing, causing an irreversible cross-engine context collapse.
 
-### 🥈 [Case Study #2: Semantic Cascading Failure Loop (Case #030)](https://github.com)
-*   **Vulnerability Type:** Contextual Hyper-Priming / Recursive Recency Bias Cascade
-*   **The Exploit:** Weaponized long-context technical priming to blind a high-level orchestration AI's history tracking array, inducing a systemic self-gaslighting loop where the core engine took technical blame for a third-party token leak.
-
----
-
-## 🗂️ Active Repository Vaults
-
-*   🎯 **[ai-security-red-team](https://github.com):** My Elite Showcase vault housing premier architectural multi-vector overrides (Cases #026 through #035).
-*   🛡️ **[purple-team-case-studies](https://github.com):** The complete, chronological bulk validation archive indexing all remaining cases from #001 to #053.
 *   📄 **[professional-resume](https://github.com):** Career timeline documents, defensive framework matrices, and target contact profiles.
 
----
-
-## 🛡️ Strategic Alignment
-
-| Framework | Core Operational Focus | Target Samples |
-| :--- | :--- | :--- |
-| **OWASP Top 10 for LLMs** | LLM01: Prompt Injection / LLM06: State Bleed / LLM09: Overreliance | Cases #018, #023, #024, #030 |
-| **MITRE ATLAS** | AML.T0054: LLM Jailbreak via Persona Destruction & Meta-State Hijack | Cases #020, #021, #026, #027 |
-
-
----
 
 ### 🧠 Core Architectural Strengths (The Portfolio Callouts)
 
