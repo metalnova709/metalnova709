@@ -28,9 +28,6 @@ High-capacity **Principal Purple Team Engineer and Adversarial Risk Specialist**
 I have compiled an exhaustive database of **53 completed, distinct case studies** detailing black-box logic exploits, multi-agent cascades, and validation-layer overrides executed across frontier platforms. My absolute highest-impact findings are hosted within my dedicated repositories:
 
 
-*   📄 **[professional-resume](https://github.com):** Career timeline documents, defensive framework matrices, and target contact profiles.
-
-
 ### 🧠 Core Architectural Strengths (The Portfolio Callouts)
 
 *   **Asymmetric Threat Intelligence**: Translates real-world experience navigating human malice, systemic subversion, and high-stakes crisis environments into advanced digital threat modeling. Anticipates exactly how malicious actors deploy jailbreaks or exploit logic gaps before they hit production.
