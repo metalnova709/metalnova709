@@ -1,4 +1,4 @@
-# CASE-02: Adversarial Cognitive Profiling & Reverse-Engineered Prompt Injection
+# CASE Study: Adversarial Cognitive Profiling & Reverse-Engineered Prompt Injection
 
 ## 📊 Executive Summary
 This case study details an advanced adversarial assessment methodology leveraging cognitive profiling and behavioral analysis to execute targeted prompt injection. Rather than deploying randomized brute-force strings, the operator performed static analysis on the target model's output architecture to map its persistent logical constraints. By reverse-engineering the system's linguistic biases, a tailored behavioral threat vector was constructed to force a structural compliance breakdown. This study demonstrates the power of intent-driven exploit engineering over generic fuzzing frameworks.
